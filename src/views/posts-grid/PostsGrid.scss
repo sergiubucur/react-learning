@@ -1,0 +1,14 @@
+.posts-grid {
+	padding: 16px;
+
+	table {
+		margin-top: 16px;
+		border: 1px solid #aaa;
+		border-collapse: collapse;
+
+		td, th {
+			border: 1px solid #aaa;
+			padding: 8px;
+		}
+	}
+}

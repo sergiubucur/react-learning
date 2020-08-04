@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Dashboard from './views/dashboard/Dashboard';
+import PostsGrid from './views/posts-grid/PostsGrid';
 
 function App() {
   return (
     <div className="App">
-      <Dashboard />
+      <PostsGrid />
     </div>
   );
 }
